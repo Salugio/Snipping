@@ -143,18 +143,3 @@ public class Capture {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
